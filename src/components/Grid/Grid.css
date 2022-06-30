@@ -1,0 +1,35 @@
+form {
+  margin: 28px auto;
+  width: 354px;
+}
+
+form input[type='text'] {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border: 1px solid #d6d4e0;
+  color: #393e4c;
+  height: 30px;
+  padding-left: 10px;
+
+  font-weight: 700;
+  width: 100%;
+}
+
+form input[type='text']:focus {
+  outline: none;
+  border: 1px solid #393e4c;
+  color: #393e4c;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+:-moz-placeholder {
+  text-align: center;
+}
+
+:-ms-input-placeholder {
+  text-align: center;
+}

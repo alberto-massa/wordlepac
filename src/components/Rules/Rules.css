@@ -1,0 +1,10 @@
+
+.rules button {
+  background-color: #393e4c;
+  color: #fbfcff;
+  border-radius: 1%;
+}
+
+.rules button:hover {
+  opacity: 0.6;
+} 
