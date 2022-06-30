@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wordlepac/static/css/main.74d5d163.css",
+    "main.js": "/wordlepac/static/js/main.489ac58c.js",
+    "static/js/787.d0048aab.chunk.js": "/wordlepac/static/js/787.d0048aab.chunk.js",
+    "static/media/ClearSans-Regular.ttf": "/wordlepac/static/media/ClearSans-Regular.43ea7d2123718b0cfd2c.ttf",
+    "static/media/ClearSans-BoldItalic.ttf": "/wordlepac/static/media/ClearSans-BoldItalic.635bf658c410fdd9884b.ttf",
+    "static/media/ClearSans-Italic.ttf": "/wordlepac/static/media/ClearSans-Italic.d1609199edca9fd488fe.ttf",
+    "static/media/ClearSans-Bold.ttf": "/wordlepac/static/media/ClearSans-Bold.abc586c1bb1f12c8d3d2.ttf",
+    "static/media/bootstrap-icons.woff?": "/wordlepac/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/wordlepac/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/logo.png": "/wordlepac/static/media/logo.a00a92631c5daafdcb5e.png",
+    "index.html": "/wordlepac/index.html",
+    "main.74d5d163.css.map": "/wordlepac/static/css/main.74d5d163.css.map",
+    "main.489ac58c.js.map": "/wordlepac/static/js/main.489ac58c.js.map",
+    "787.d0048aab.chunk.js.map": "/wordlepac/static/js/787.d0048aab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74d5d163.css",
+    "static/js/main.489ac58c.js"
+  ]
+}
