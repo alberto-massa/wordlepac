@@ -1,7 +1,7 @@
 .wordle-modal {
   position: absolute;
   left: 50%;
-  top: 25%;
+  top: 35vh;
   transform: translate(-50%, -50%);
   color: #363e52;
   font-size: 15px;

@@ -17,10 +17,10 @@ const App = () => {
         setRandomWord(response[0]);
       } catch (err) {
         console.error(err.message);
-        //if api call fails, we'll always use "hello" as the game's solution
-        setRandomWord('hello');
+        //if api call fails, the word "error" will be set as the game's solution
+        setRandomWord('error');
       }
-      setLoading(false);
+      setTimeout(setLoading(false), 20000);
     };
 
     fetchData();
